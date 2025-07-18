@@ -19,7 +19,7 @@ A modern, ChatGPT-style chatbot web app with support for multiple models (OpenAI
 
 ### 1. Clone the Repository
 ```sh
-git clone <https://github.com/jeayoung114/chatbot_vibecoding.git>
+git clone https://github.com/jeayoung114/chatbot_vibecoding.git
 cd chatbot
 ```
 
